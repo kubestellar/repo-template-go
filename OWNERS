@@ -1,0 +1,8 @@
+# See the OWNERS docs: https://go.k8s.io/owners
+# This file controls prow review/approve permissions
+
+approvers:
+  # TODO: Add approvers for this repo
+
+reviewers:
+  # TODO: Add reviewers for this repo
